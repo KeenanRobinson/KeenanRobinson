@@ -2,11 +2,13 @@
 
 My name is _Keenan Robinson_.
 
-I am currently studying BScEng in Mechatronics at the University of Cape Town. I have a keen interest in software Embedded Systems and programming, with proficiency in
-languages including C, Python and Java. I have had some entry level experience with other languages such as MATLAB, Simulink, React, Django REST framework. I am currently working
-on my final year research project and a Maze Solving robot that utilises Machine Learning with Tensorflow.
+Studied a BScEng in Mechatronics at the University of Cape Town. I really enjoy all kinds of programming and all kinds of programming with a keen interest in software embedded systems. I have proficiency in languages including C and C++, with additional experience in C#, Python and VHDL. I have had some entry level experience with other languages and frameworks such as MATLAB, Simulink, React, Django REST framework. I am currently working as a junior software engineer in the protocol driver team at Adroit Technologies.
 
 ## Some of the microcontrollers/microprocessors I have worked with:
 - STM32F051C
 - Arduino Nano/Uno
 - Raspberry Pi 3B+
+
+## Some of the PLCs I have worked with:
+- Mitsubishi Q-Series and iQ-F Series (more specifically the FX5)
+- Allen-Bradley CompactLogix 1769-L35E
